@@ -1,0 +1,22 @@
+.tenantsContainer{
+    font-family: "proxima-nova", sans-serif;
+    margin:2% 0 0 2%;
+    text-transform: capitalize;
+}
+.tenantsText{
+    font-size: 200%;
+}
+.filterMissedPayment{
+color:#197572 ;
+font-weight: 700;
+}
+.tenantShow{
+    white-space: nowrap;
+}
+.search-container{
+    width: 8%;
+    margin-left: 16%;
+}
+.SearchIcon{
+    margin-left:-16% ;
+}

@@ -20,7 +20,7 @@ const Login = () => {
     ) {
       // Auth success
       setLoggedIn(true);
-      navigate("/listings");
+      navigate("/listingsAdmin");
     } else {
       // Auth failed
       Swal.fire({
